@@ -65,18 +65,7 @@ This project demonstrates a **Dark Mode Toggle** switch using advanced CSS anima
 
 ---
 
-## Preview 🔄
 
-### Live Demo
-
-1. Open the `index.html` in your favorite browser.
-2. Interact with the toggle switch to switch between dark and light modes. Observe the smooth animations and subtle transitions that enhance user experience.
-
-### Screenshot
-
-![Dark Mode Toggle Preview](https://via.placeholder.com/800x400)
-
----
 
 ## License 🔒
 
